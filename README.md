@@ -1,6 +1,6 @@
 # CRUD_PHP_MYSQL
 MI PRIMER CRUD <br>
-Andres Mauricio Gil<br>
+Andres Mauricio Gil<br></br>
 Herramientas utilizadas: 
 - Lenguaje básico HTML.
 - Bootstrap4 para estilos CSS.  
